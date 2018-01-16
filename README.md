@@ -1,5 +1,9 @@
 # TotalPriceCalculator
 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/846cd1478f95b8a0ef71/test_coverage)](https://codeclimate.com/repos/5a5e3fe0329add027d000001/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/846cd1478f95b8a0ef71/maintainability)](https://codeclimate.com/repos/5a5e3fe0329add027d000001/maintainability)
+[![Build Status](https://travis-ci.org/kyleboss/total_price_calculator.svg?branch=master)](https://travis-ci.org/kyleboss/total_price_calculator)
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/total_price_calculator`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
